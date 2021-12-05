@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "P5_3_1204039_FormControl/1.0.0": {
+        "runtime": {
+          "P5_3_1204039_FormControl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P5_3_1204039_FormControl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
